@@ -1,4 +1,7 @@
-﻿using System;
+// 
+// Developer: Alejandro Galindo. 2021
+//
+using System;
 using System.Drawing;
 using TradingPlatform.BusinessLayer;
 
