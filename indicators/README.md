@@ -11,7 +11,7 @@ It plots:
 * Two lines, so i can see the history of the DOM across my chart\
   Green: are the Asks from the DOM (Sell limit orders)\
   Red: are the Bids of the DOM (Buy limit orders)  
-* A small rectangel by default in the upper right corner with the same data.
+* A small rectangle by default in the upper right corner with the same data.
   
   
 Parameters:
