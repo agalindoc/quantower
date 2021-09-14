@@ -1,2 +1,2 @@
 # quantower
-Indicators and strategies for Quantower trading platform
+Indicators and strategies for Quantower trading platform (C#)
