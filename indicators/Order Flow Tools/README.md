@@ -14,7 +14,10 @@ Parameters:
 * Level count: the number of DOM levels to consider the totals
 * Custom tick size: Value required by **GetLevel2ItemsParameters** class
 * Font size: for the values inside the rectangle
-* Paint rectangle: if true it plots the rectangle on the chart, if false the rectangle is off
+* Paint rectangle: if true it plots the rectangle on the chart, if false the rectangle is off\
+Red: Ask limit orders bigger than bid limit orders\
+Green: Bid limit orders are bigger than ask limit orders\
+Gray: Bid and Ask limit orders are equal
 * X & Y coordinates for the rectangle
 
 ![image](https://user-images.githubusercontent.com/69223009/133335583-dbecb6d4-327b-4b20-a611-756a3498b110.png)
