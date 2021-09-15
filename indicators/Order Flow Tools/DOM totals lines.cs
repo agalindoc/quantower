@@ -1,3 +1,6 @@
+//
+// Alejandro Galindo Cháirez. 2021
+//
 ﻿using System;
 using System.Drawing;
 using TradingPlatform.BusinessLayer;
