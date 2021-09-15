@@ -27,6 +27,6 @@ Parameters:
 
 ![dom lines](https://user-images.githubusercontent.com/69223009/133333903-10327818-e90d-4910-9d22-7f24cbb2c0e4.png)
 
-As you can see in the previous image the indicator has a delay vs the original DOM, this is because the chart updates the values each tick and the DOM moves faster (100ms by default). For my use, this doesnt matter because i only use it only as a filter.
+As you can see in the previous image the indicator has a delay vs the original DOM, this is because the chart updates the values each tick and the DOM moves faster (100ms by default). For my use, this doesnt matter because i use it only as a filter.
 
 This indicator lines does not follow the normal logic, here, the greatest value the better; for short the red line must be above green line, for long the green line must be above the red line. 
