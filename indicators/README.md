@@ -5,7 +5,7 @@
 **DOM totals lines**\
 This is a resume of the DOM.\
 You need Data II level to get the level values.\
-I use this as a filter when i have a trading setup, if Buy setup and green rectangle i take the long position, if Sell setup and red rectangle i take the short position
+I use this indicator as a filter when i have a trading setup.
 
 It plots:
 * Two lines, so i can see the history of the DOM across my chart\
@@ -29,4 +29,4 @@ Parameters:
 
 As you can see in the previous image the indicator has a delay vs the original DOM, this is because the chart updates the values each tick and the DOM moves faster (100ms by default). For my use, this doesnt matter because i use it only as a filter.
 
-This indicator lines does not follow the normal logic, here, the greatest value the better; for short the red line must be above green line, for long the green line must be above the red line. 
+This indicator lines does not follow the normal logic. 
