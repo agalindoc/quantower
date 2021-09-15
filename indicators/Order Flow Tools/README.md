@@ -21,7 +21,8 @@ Parameters:
 
 ## Example
 
-![dom lines](https://user-images.githubusercontent.com/69223009/133333903-10327818-e90d-4910-9d22-7f24cbb2c0e4.png)
+![image](https://user-images.githubusercontent.com/69223009/133445112-a8e25183-6343-470b-ab0b-5ecd274a3349.png)
+
 
 As you can see in the previous image the indicator has a delay vs the original DOM, this is because the chart updates the values each tick and the DOM moves faster (100ms by default). For my use, this doesnt matter because i use it only as a filter.
 
