@@ -1,5 +1,5 @@
 ﻿//
-// Based on 2MA from https://github.com/Quantower
+// Based on code from https://github.com/Quantower and @alexeybogdan
 // Dev Alejandro Galindo Cháirez. 2021
 //
 using System;
