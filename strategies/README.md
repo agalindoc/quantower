@@ -1,4 +1,4 @@
-# QuanTower strategiy examples
+# QuanTower strategy examples
 
 Remember, all this is for educational purposes.
 
